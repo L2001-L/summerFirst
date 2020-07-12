@@ -16,3 +16,6 @@ private fun login(){
 private fun loadData(){
     //网络获取数据
 }
+private fun upload(){
+    //上传数据
+}
