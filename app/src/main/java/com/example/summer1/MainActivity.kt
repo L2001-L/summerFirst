@@ -10,3 +10,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
 }
+private fun login(){
+    //登录功能
+}
