@@ -19,3 +19,6 @@ private fun loadData(){
 private fun upload(){
     //上传数据
 }
+private fun test(){
+    //测试
+}
